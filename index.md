@@ -1,12 +1,12 @@
 ---
 layout: default
-course_number: CS481-102-RT
+course_number: CS481-102
 title: Senior Software Project I
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS481-102: Senior Software Project I <br> YCAS Radio Telescope Project
+## CS481-102: Senior Software Project I (YCAS Radio Telescope Project)
 
 ## Fall 2018
 
