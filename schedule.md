@@ -1,10 +1,10 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS481-102
 title: Schedule
 ---
 
-This is the course schedule for CS 481.
+This is the course schedule for CS 481-102 (YCAS Radio Telescope Project).
 
 **Assignment** | **Due**
 :--------------|:---------

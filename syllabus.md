@@ -16,7 +16,7 @@ title: Syllabus
 
 **Meeting Times:**
 
- - **Section 102:**  Weds     4:00p-4:50p (be prepared to ** frequently** stay **a little** longer)<br>
+ - **Section 102:**  Weds     4:00p-4:50p (be prepared to **frequently** stay **a little** longer)<br>
  
 **Location:** Kinsley Project Workspace<br>
 **Webpage:**  [https://ycpcs.github.io/cs481-fall2018-102-RT/](https://ycpcs.github.io/cs481-fall2018-102-RT/)
