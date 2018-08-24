@@ -1,18 +1,18 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS481-102-RT
 title: Senior Software Project I
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS481: Senior Software Project I
+## CS481-102: Senior Software Project I <br> YCAS Radio Telescope Project
 
 ## Fall 2018
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the website for CS 481 (Senior Software Project I), Fall 2018 at at [York College of Pennsylvania](http://www.ycp.edu).  All information related to the course will be posted here.
+This is the website for CS 481-102 (Senior Software Project I), Fall 2018 for the YCAS Radio Telescope Project at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
 
 ## Links
 
