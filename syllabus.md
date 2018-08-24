@@ -1,12 +1,12 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS481-102
 title: Syllabus
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS 481: Senior Software Project I
+## CS 481-102: Senior Software Project I (YCAS Radio Telescope Project)
 
 ## Fall 2018
 
@@ -16,20 +16,21 @@ title: Syllabus
 
 **Meeting Times:**
 
- - **Section 101:**  M        12:00 PM - 12:50 AM <br>
+ - **Section 102:**  Weds     4:00p-4:50p (but be prepared to stay **a little** longer<br>
  
 **Location:** KEC118<br>
-**Webpage:**  [https://ycpcs.github.io/cs481-fall2018-101/](https://ycpcs.github.io/cs481-fall2018-101/)
+**Webpage:**  [https://ycpcs.github.io/cs481-fall2018-102-RT/](https://ycpcs.github.io/cs481-fall2018-102-RT/)
 
 **Instructor**
 
->[James Moscola](http://faculty.ycp.edu/~jmoscola/)<br>
-**Email:** <jmoscola@ycp.edu><br>
-**Office:** KEC 108<br>
-**Phone:** (717) 815-1276<br>
+>[Donald J. Hake II](http://faculty.ycp.edu/~djhake2/)<br>
+**Email:** <djhake2@ycp.edu><br>
+**Office:** KEC 137<br>
+**Phone:** (717) 815-6587<br>
 **Office Hours:** <br>&nbsp;&nbsp;&nbsp;&nbsp;
-M W: 3:00 PM - 4:00 PM;<br>&nbsp;&nbsp;&nbsp;&nbsp;
-Tu Th: 11:00 AM - 12:30 PM
+W F: 9:15a-10:00a (KEC137) <br>&nbsp;&nbsp;&nbsp;&nbsp;
+W F: 11:15a-12:00p, 1:15p-2:00p (KEC123) <br>&nbsp;&nbsp;&nbsp;&nbsp;
+Th:  11:00a-12:30p (KEC137)
 
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
@@ -39,7 +40,15 @@ Tu Th: 11:00 AM - 12:30 PM
 ### Course Description
 
 
-Student teams will complete a substantial project provided by sponsors drawn from both industry and research organizations. These projects will be developed under the direction of the course instructor and members of the sponsoring organization.
+Several student teams will design and develop the various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with Radio Telescope Engineering Capstone team.  This project will be developed under the direction of the course instructor, members of the sponsoring organization, recent York College Engineering and Computer Science graduates, and local industry partners.
+
+There will be 3-4 teams of 2-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The teams will be working on:<br>
+	<insert team-name here>: Front-End Website (User Interface)<br>
+	<insert team-name here>: Back-End Server and Database<br>
+	<insert team-name here>: Control Room Software (C#, .NET)<br>
+	<insert team-name here>: Simulation, Visualization, and Virtualization<br>
+	
+The standard user interface for the Radio Telescope will be web-based GUI.  The website and control room application will interface via the back-end server and database.  The simulation, visualization, and virtulization components will be able to substitute for the physical radio telescope, and also be used as educational tools by YCAS.
 
 **Prerequisites:**  CS 320 with a grade of 2 or higher<br>
 **Credit:**		3 credit hours<br>
@@ -54,12 +63,12 @@ Student teams will complete a substantial project provided by sponsors drawn fro
 Your team's grade will be determined as a weighted average of the grades on the 7 assignments, as follows:
 
 -   Assignment 1 - Team Project Proposal - **5%**
--   Assignment 2 - Weekly Progress Demonstrations - **15%**
--   Assignment 3 - Requirements - **5%**
--   Assignment 4 - Analysis and Design - **5%**
+-   Assignment 2 - Weekly Progress Journals and Demonstrations - **20%**
+-   Assignment 3 - Requirements - **10%**
+-   Assignment 4 - Analysis and Design - **15%**
 -   Assignment 5 - Minimal Working System - **10%**
 -   Assignment 6 - 50% Working System - **10%**
--   Assignment 7 - Final System, Report, and Presentation - **50%**
+-   Assignment 7 - Final System, Report, and Presentation - **30%**
 
 Grades will be assigned on a 100-point scale according to the following table:
 
@@ -79,7 +88,7 @@ Grades will be assigned on a 100-point scale according to the following table:
 
 ### Attendance Policy
 
-Attendance at the weekly meeting is mandatory.
+**Attendance at the weekly meeting is mandatory**.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
