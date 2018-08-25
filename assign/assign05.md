@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS481-102
 title: Minimal Working System
 ---
 
@@ -32,15 +32,14 @@ Because this milestone involves implementing several of your most important use 
 
 # The Demonstration
 
-Your group should plan to present for 12 minutes. Your presentation should include the following elements:
+Your team should plan to present for 12 minutes. Your presentation should include the following elements:
 
 - Demonstrate the system in action. If you have a UI, show it.
 - Run your unit tests to demonstrate your testing framework, and describe what is happening.
 - Explain what parts of your design are implemented, and which parts remain to be implemented by referencing your UML diagram. Briefly talk about how you plan to evolve the system to implement the remaining functionality.
 
-**Please do a dry run before class.** Because of the limited amount of time we have in class, we can't wait for your group to troubleshoot.
+**Please do a dry run before class.** Because of the limited amount of time we have in class, we can't wait for your team to troubleshoot.
 
-**Important**: because of the large number of teams we have this year, we will be splitting the class into two sections, each consisting of three project groups.  One section will present in KEC 118, and the other will present in KEC 119.  We will let you know in advance which room you will present in.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 

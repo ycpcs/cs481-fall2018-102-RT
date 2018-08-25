@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS481-102
 title: Final Report Details
 ---
 
@@ -47,11 +47,11 @@ We expect your report to be well-written. Specifically:
 
 -   **It should be well-organized.** Topics should be arranged in a logical manner. Use sections and subsections to help with the organization of your document. Each section should include an overview with a brief introduction to the subsections. This overview may also include some information on how the subsections relate to and interact with each other. Specific technical details should be placed in the appropriate subsection. Technical concepts should be introduced before being referenced.
 -   **It should be concise.** Try to find the simplest possible way of saying what you want to say. Your document should be complete, i.e. such that a technical person who is not familiar with your project can easily understand what you have done.
--   **It should be in one voice.** Although all team members will be responsible for dividing up the task of writing the report, we expect the **ENTIRE TEAM** to review and edit the report so that the writing style is consistent throughout. You should have someone read the document aloud to the other group members so the grammar can be more easily fixed.
+-   **It should be in one voice.** Although all team members will be responsible for dividing up the task of writing the report, we expect the **ENTIRE TEAM** to review and edit the report so that the writing style is consistent throughout. You should have someone read the document aloud to the other team members so the grammar can be more easily fixed.
 -   **It should be be professional.** Use appropriate language. You should explain technical terms and acronyms that are specific to your project and not common knowledge. Don't make it "conversational", it should not contain the word "you". Additionally, your document should NOT be written in first person. It should NOT contain words such as "I", "we", etc.
 -   **It should use correct spelling and grammar.** Use a spelling checker!
 -   Remember, this document will be posted publicly on the YCP Computer Science web page. It will be visible to the whole world, including future prospective employers and students.
 
 We **strongly encourage** you to make an appointment and visit the [Writing Center in the Center for Teaching and Learning](http://www.ycp.edu/offices-and-services/center-for-teaching-and-learning/writing-center/) to get help from a writing tutor. Bring your document with you!
 
-We reserve the right to return the report unread if there are too many spelling and grammar errors.
+**PROOFREAD YOUR REPORT:** We reserve the right to return the report unread if there are too many spelling, grammatical, and/or syntactical errors.

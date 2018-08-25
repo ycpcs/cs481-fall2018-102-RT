@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS481-102
 title: 50% Working System
 ---
 
@@ -23,7 +23,7 @@ Your task is to demonstrate a 50% working version of your system.
 # The Demonstration
 
 
-Your group should plan to present for 12 minutes. Your presentation should include the following elements:
+Your team should plan to present for 12 minutes. Your presentation should include the following elements:
 
 - Demonstrate the system in action. If you have a UI, show it.
 - Run your unit tests to demonstrate your testing framework, and describe what is happening.
@@ -31,7 +31,7 @@ Your group should plan to present for 12 minutes. Your presentation should inclu
 
 **Plan your demonstration carefully.** You need to convince us that your system is 50% complete.  Make sure your demonstration convinces us!
 
-**Please do a dry run before class.** Because of the limited amount of time we have in class, we can't wait for your group to troubleshoot.
+**Please do a dry run before class.** Because of the limited amount of time we have in class, we can't wait for your team to troubleshoot.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 

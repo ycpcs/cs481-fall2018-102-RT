@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS481-102
 title: Project Proposal
 ---
 
@@ -20,13 +20,13 @@ There are three tasks which are part of this assignment.
 
 ## Proposal
 
-Your first task is to propose a group project that your team will work on. Your team must choose a project in which you will design and implement a substantial software system.
+The first task is for us to distribute the 12 students among the four teams designated in the syllabus.  You should have received an invitation to collaborate on the **CS481/CS482 Senior Design Radio Telescope Google Team Drive**.  Place your preferences and contact information in **Radio-Telescope Senior Design Teams (2018-2019).xlsx** on the team drive.  If you have no particulat preference, you can state that.  I will try to honor your first request, and almost certainly your second request - we will decide this on the first day of class.
 
-Write a 1 to 2 page report describing the project. The report should include the following information:
+Your team should then write a 1 to 2 page report describing your chosen/assigned project.  In some cases, this work will be an extension of work that was performed by the Engineering Capstone Radio Telescope team this past Summer.  You will be granted access to the **YCAS: Radio Telescope Project (2018-2019)**.  Your team report should include the following information:
 
--   Who are the members of your group? Your group should have at least 3 members, but not more than 4.
+-   Who are the members of your team? Your team will have at least 2 members, but not more than 4.
 -   What is the URL of the main repository for your project?  (See next task.)
--   What problem is solved by the system your group will implement?
+-   What problem is solved by the system your team will implement?
 -   What are the major technical challenges you will face?
 -   What technologies (programming languages, libraries, algorithms, hardware devices, etc.) will you use in the implementation of the system?
 -   What kind of user interface will the system have?
@@ -45,15 +45,15 @@ We **strongly** encourage you to meet with us to discuss project ideas before yo
 
 Your second task is to create a main repository for your project on [GitHub](https://github.com).
 
-You should add all of your team members as contributors to the repository.  Also, add the instructors (GitHub users [jmoscola](https://github.com/jmoscola) and [daveho](https://github.com/daveho)) as contributors.
+You should add all of your team members as contributors to the repository.  Also, add the instructor (GitHub user [DonaldHakeII](https://github.com/DonaldHakeII).  At a later date, you will likely also be adding one or more team members from the Radio Telescope Engineering Capstone team, as well as a technical advisor as contributors.
 
 In the issue tracker for the main repository, create three labels:
 
 -   **Feature (light blue)** - indicates a planned feature to be implemented
 -   **Bug (red)** - indicates a problem with code that needs to be addressed
--   **In-progress (green with individual initials)** - one per group member indicating which tasks are currently being worked on.
+-   **In-progress (green with individual initials)** - one per team member indicating which tasks are currently being worked on.
 
-Your group may add additional labels as desired.
+Your team may add additional labels as desired.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -61,11 +61,11 @@ Your group may add additional labels as desired.
 
 ## Set up your computing environment
 
-Your third task is for each group member to set up a computing environment with the hardware and software you will need for the project.
+Your third task is for each team member to set up a computing environment with the hardware and software you will need for the project.
 
-You may use the physical space and computing equipment as you see fit.  Please be considerate of the needs of other groups, and please try to keep the environment neat and well-organized.
+You may use the physical space and computing equipment as you see fit.  Please be considerate of the needs of other teams, and please try to keep the environment neat and well-organized.
 
-Please note that you aren't required to use one of the PCs: you can use your own laptop if you would prefer.
+Please note that you are **NOT** required to use one of the provided PCs: you can use your own laptop if you would prefer.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 

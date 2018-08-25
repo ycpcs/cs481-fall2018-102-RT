@@ -1,6 +1,6 @@
 ---
 layout: default
-course_number: CS481
+course_number: CS481-102
 title: Weekly Progress Demos
 ---
 
@@ -8,15 +8,14 @@ title: Weekly Progress Demos
 
 
 
-# Expectations for Weekly Demos
+# Expectations for Weekly Journals and Demos
 
-Here are what we would like to see from you for the weekly (Monday) demos.
+Here are what we would like to see from you for the weekly (Wednesday) demos.
 
 
 ## Journal entries (individual)
 
-Each team member should have an issue in the group's issue tracker.  Each week, each team member should add at least one comment to this issue to document his or her work for the week.  
-Each weekly entry should contain a list of the following:
+Each team member should have at least one issue in the team's issue tracker.  Each week, each team member should add at least one comment to this issue to document his or her work for the week.  These comments should be comprehensive - do **NOT** simply write a couple of lines - provide enough detail so that other team members and your instructors and advisors can comprehend what you've accomplished.  Each weekly entry should contain a list of the following:
 
 * Links to issues that were created/opened by you 
 * Links to issues that were closed by you
@@ -26,7 +25,7 @@ Please format your entry as a *bulleted list*.
 
 You can create a link to a commit by pasting the first 8 (or so) hex digits of its hash code.
 
-Your journal entries should be complete by midnight on Sunday (so we can use Monday morning to read your entries.)
+Your journal entries should be complete by Wednesday at 7:00a (so that we can use Wednesday to read your entries.)
 
 
 ## Demo (individual)
@@ -36,13 +35,13 @@ Each class meeting, we will talk to each student *individually*.  Your job is to
 Ways that you can demonstrate progress include
 
 * **Requirements, analysis, and design artifacts**: During the early stages of the project, documenting requirements, modeling the problem domain, and developing a system design to meet the requirements are very important in order to create a solid foundation for your system.  In addition, as you iterate later in the semester, it is useful to update parts of the requirements and analysis/design models in order to support further progress towards meeting the system requirements.
-* **Working, tested, integrated code**: Assuming that your group has a solid design, this is generally the most important type of contribution.
-* **Prototype code**: A standalone proof-of-concept demo is fine, especially in the early stages of the project.  However, all such work needs to be integrated into the main codebase in a timely manner.
+* **Working, tested, integrated code**: Assuming that your team has a solid design, this is generally the most important type of contribution.
+* **Prototype code**: A stand-alone proof-of-concept demo is fine, especially in the early stages of the project.  However, all such work needs to be integrated into the main code base in a timely manner.
 * **Equipment/apparatus**: If your project has external equipment or apparatus, then you can show us progress on its construction and setup.  However, time spent on equipment/apparatus should be the mininum necessary to support the needs of the software you are creating.
 
 # Team meeting
 
-In addition to the individual meetings, we will generally meet with each group as a whole to discuss overall progress.
+In addition to the individual meetings, we will generally meet with each team as a whole to discuss overall progress.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
