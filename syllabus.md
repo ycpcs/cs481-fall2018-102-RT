@@ -16,9 +16,9 @@ title: Syllabus
 
 **Meeting Times:**
 
- - **Section 102:**  Weds     4:00p-4:50p (be prepared to **frequently** stay **a little** longer)<br>
+ - **Section 102:**  Weds     4:00p-4:50p (be prepared to **frequently** stay **later**)<br>
  
-**Location:** Kinsley Project Workspace<br>
+**Location:** KEC 118<br>
 **Webpage:**  [https://ycpcs.github.io/cs481-fall2018-102-RT/](https://ycpcs.github.io/cs481-fall2018-102-RT/)
 
 **Instructor**
@@ -30,7 +30,7 @@ title: Syllabus
 **Office Hours:** <br>&nbsp;&nbsp;&nbsp;&nbsp;
 W F: 9:15a-10:00a (KEC137) <br>&nbsp;&nbsp;&nbsp;&nbsp;
 W F: 11:15a-12:00p, 1:15p-2:00p (KEC123) <br>&nbsp;&nbsp;&nbsp;&nbsp;
-Th:  11:00a-12:30p (KEC137)
+Th:  11:30a-12:30p (KEC137)
 
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
@@ -88,7 +88,7 @@ Grades will be assigned on a 100-point scale according to the following table:
 
 ### Attendance Policy
 
-**Attendance at the weekly meeting is mandatory**.
+**Attendance at every weekly meeting is mandatory**.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
