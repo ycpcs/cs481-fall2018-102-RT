@@ -28,10 +28,9 @@ title: Syllabus
 **Office:** KEC 137<br>
 **Phone:** (717) 815-6587<br>
 **Office Hours:** <br>&nbsp;&nbsp;&nbsp;&nbsp;
-W F: 9:15a-10:00a (KEC137) <br>&nbsp;&nbsp;&nbsp;&nbsp;
-W F: 11:15a-12:00p, 1:15p-2:00p (KEC123) <br>&nbsp;&nbsp;&nbsp;&nbsp;
-Th:  11:30a-12:30p (KEC137)
-
+W F in KEC137: 9:15a-10:00a <br>&nbsp;&nbsp;&nbsp;&nbsp;
+W F in KEC123: 11:15a-12:00p, 1:15p-2:00p <br>&nbsp;&nbsp;&nbsp;&nbsp;
+Th in KEC137:  11:30a-12:30p or by appointment
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
