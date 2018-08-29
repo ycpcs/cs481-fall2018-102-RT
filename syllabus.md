@@ -49,6 +49,8 @@ There will be 3-4 teams of 2-4 people each, working in a coordinated fashion to 
 	
 The standard user interface for the Radio Telescope will be a web-based GUI.  The website and control room application will interface via the back-end server and database.  The simulation, visualization, and virtulization components will be able to substitute for the physical radio telescope, and also be used as educational tools by YCAS.
 
+The Radio Telescope Engineering Capstone Team Drive has been shared with you - you can view all of their accumulated information.  It is not, however, open for you to create or edit content.  You may use their work, but whatever content you do use, you must cite or reference the source.
+
 **Prerequisites:**  CS 320 with a grade of 2 or higher<br>
 **Credit:**		3 credit hours<br>
 **Text:**  None
